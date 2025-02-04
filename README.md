@@ -20,6 +20,6 @@ This project estimates **Value at Risk (VaR)** using Monte Carlo simulation, mod
    git clone https://github.com/ShriyaSG/VaR-Simulation.git
    cd VaR-Simulation
 2. Run the simulation:
-   '''bash
+   ```bash
    python var.py
 3. The script will generate plot1_hist.png (loss distribution histogram) and plot2.png (cumulative loss distribution).
